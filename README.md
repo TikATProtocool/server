@@ -29,3 +29,9 @@ Here are the regions if depends:
 `us`
 
 More are coming soon
+
+----
+
+For non-avaliable regions, try World-Wind Web (WWW) instend:
+
+`www`
