@@ -1,1 +1,15 @@
-TikATProtocool is a unofficial AT Protocool TikTok 'handle' username
+Here are the servers:
+
+ca
+
+ch
+
+jp
+
+nl
+
+pl
+
+uk
+
+us
