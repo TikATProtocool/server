@@ -1,4 +1,12 @@
-Here are the servers:
+Prefer the handles like these:
+
+YOURUSERNAME.tikatprotocool.YOURREGION
+
+YOURUSERNAME.tikatp.YOURREGION
+
+----
+
+Here are the regions if depends:
 
 ca
 
@@ -9,6 +17,8 @@ jp
 nl
 
 pl
+
+tr
 
 uk
 
