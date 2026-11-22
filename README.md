@@ -1,27 +1,27 @@
 Prefer the handles like these:
 
-YOURUSERNAME.tikatprotocool.YOURREGION
+`YOURUSERNAME.tikatprotocool.YOURREGION`
 
-YOURUSERNAME.tikatp.YOURREGION
+`YOURUSERNAME.tikatp.YOURREGION`
 
 ----
 
 Here are the regions if depends:
 
-ca
+`ca`
 
-ch
+`ch`
 
-jp
+`jp`
 
-nl
+`nl`
 
-pl
+`pl`
 
-tr
+`tr`
 
-uk
+`uk`
 
-us
+`us`
 
 More are coming soon
