@@ -14,6 +14,8 @@ A free, opensource 'handle' username for TikTok
 
 🇩🇰`dk`
 
+🇮🇷`ir`
+
 🇯🇵`jp`
 
 🇳🇱`nl`
