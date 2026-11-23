@@ -4,16 +4,6 @@ A free, opensource 'handle' username for TikTok
 
 ----
 
-### Set it up:
-
-ℹ️The handles will look like these:
-
-✅YOURUSERNAME`.tikatprotocool.YOURREGION`
-
-✅YOURUSERNAME`.tikatp.YOURREGION`
-
-----
-
 Here are the regions if depends:
 
 🇨🇦`ca`
@@ -38,7 +28,15 @@ Here are the regions if depends:
 
 🇺🇸`us`
 
-ℹ️These are limited for some regions.
+----
+
+### Set it up:
+
+ℹ️The handles will look like these:
+
+✅YOURUSERNAME`.tikatprotocool.YOURREGION`
+
+✅YOURUSERNAME`.tikatp.YOURREGION`
 
 ----
 
