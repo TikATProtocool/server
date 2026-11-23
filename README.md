@@ -1,47 +1,65 @@
-The handles will look like these:
+### Welcome to TikATProtocool
 
-YOURUSERNAME`.tikatprotocool.YOURREGION`
+A free, opensource 'handle' username for TikTok
 
-YOURUSERNAME`.tikatp.YOURREGION`
+----
 
-Short handle is recommended for high usernames
+### Set it up:
 
-High handle is recommended for short usernames (or even 1c/1l, 2c/2l, 3c/3l and 4c/4l usernames)
+ℹ️The handles will look like these:
+
+✅YOURUSERNAME`.tikatprotocool.YOURREGION`
+
+✅YOURUSERNAME`.tikatp.YOURREGION`
 
 ----
 
 Here are the regions if depends:
 
-`ca`
+🇨🇦`ca`
 
-`ch`
+🇨🇳`cn`
 
-`jp`
+🇨🇿`cz`
 
-`nl`
+🇩🇰`dk`
 
-`pl`
+🇯🇵`jp`
 
-`tr`
+🇳🇱`nl`
 
-`uk`
+🇵🇱`pl`
 
-`us`
+🇸🇪`se`
 
-More are coming soon
+🇹🇷`tr`
+
+🇬🇧`uk`
+
+🇺🇸`us`
+
+ℹ️These are limited for some regions.
 
 ----
 
-For non-avaliable regions, try World-Wind Web (WWW) instend:
+ℹ️For non-avaliable regions, try World-Wind Web (WWW) instend:
 
-`www`
+🌐`www`
 
-The handles will look like these:
+ℹ️The handles will look like these:
 
-YOURUSERNAME`.tikatprotocool.www`
+✅YOURUSERNAME`.tikatprotocool.www`
 
-YOURUSERNAME`.tikatp.www`
+✅YOURUSERNAME`.tikatp.www`
 
-Short handle is recommended for high usernames
+----
 
-High handle is recommended for short usernames (or even 1c/1l, 2c/2l, 3c/3l and 4c/4l usernames)
+ℹ️If you prefer not to put either put `.YOURREGION` or `.www` on your username:
+
+✅YOURUSERNAME`.tikatprotocool`
+
+✅YOURUSERNAME`.tikatp`
+
+ℹ️Short handle is recommended for high usernames
+
+ℹ️High handle is recommended for short usernames (or even 1c/1l, 2c/2l, 3c/3l and 4c/4l usernames)
